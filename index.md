@@ -11,7 +11,7 @@ View [my Code Review Video](https://youtu.be/-wyqBa1w4jw) to see the original ap
 
 ### My Enhanced Artifacts
 
-View the enhancements and updates to my Campsite Locator App's by accessing the repository [here] (https://github.com/ericagates/campsite-locator-app)
+View the enhancements and updates to my Campsite Locator App's by accessing the repository [here](https://github.com/ericagates/campsite-locator-app).
 
 ### My Narratives
 #### Software Engineering and Design:
