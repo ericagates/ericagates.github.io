@@ -1,16 +1,21 @@
-## Campsite Locator App
-### Professional Self-assessment
+## Professional Self-assessment
 
 
+### The Campsite Locator App
+
+For my Computer Science Capstone project, I’ve decided to use the same multifaceted artifact from a previous course to demonstrate my knowledge and skill in 3 different key areas of computer science which are: software engineering and design, data structures and algorithms, and databases. This artifact is an Android Mobile application that was created throughout my Mobile Architecture and Programming course (CS-360) at Southern New Hampshire University. This app was named Campsite Locator App and, the purpose of the app is to provide users an easy-to-use interface to locate campsites based on their desired search criteria queried from a database of campsites.
 
 ### Code Review
 
-For more details see [my Code Review Video](https://youtu.be/-wyqBa1w4jw).
+View [my Code Review Video](https://youtu.be/-wyqBa1w4jw) to see the original application and the enhancements I planned to complete in this Computer Science Capstone project.
 
 ### My Enhanced Artifacts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ericagates/ericagates.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+View the enhancements and updates to my Campsite Locator App's by accessing the repository [here] (https://github.com/ericagates/campsite-locator-app)
 
 ### My Narratives
+#### Software Engineering and Design:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Data Structures and Algorithms:
+
+#### Databases:
