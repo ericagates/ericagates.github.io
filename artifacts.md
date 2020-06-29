@@ -2,7 +2,8 @@
 title: Artifacts
 layout: template
 permalink: /artifacts/
---- 
+filename: artifacts.md
+---
 
 ## My Enhanced Artifacts
 
