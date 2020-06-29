@@ -1,8 +1,8 @@
 ---
 title: Narratives
-layout: defaulr
+layout: default
 filename: narratives.md
-permalink: /artifacts/
+permalink: /narratives/
 ---
 
 ## My Narratives
