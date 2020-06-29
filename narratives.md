@@ -6,6 +6,10 @@ permalink: /narratives/
 ---
 
 ## My Narratives
+### The Campsite Locator App
+
+For my Computer Science Capstone project, I’ve decided to improve upon one multifaceted artifact from a previous course to demonstrate my knowledge and skill in 3 different key areas of computer science which are: software engineering and design, data structures and algorithms, and databases. This artifact is an Android Mobile application that was created throughout my Mobile Architecture and Programming course (CS-360) at Southern New Hampshire University. This app was named Campsite Locator App and, the purpose of the app is to provide users an easy-to-use interface to locate campsites based on their desired search criteria queried from a database of campsites.
+
 ### Software Engineering and Design:
 I selected this item because there were many potential improvements to the software engineering and design that could have been made to the project. The specific component of the Campsite Locator App that showcases my skills and abilities in software development is the search results page. The initial application I created (during my CS-360 course) enabled users to search for a campsite by name, feature, or location. However, the results displayed by the app were constrained to exactly three (3) results, even if there were more or less campsites that matched the query, because I had used a Linear Layout. I enhanced the software design by making use of Recycler View provided by Android Studio in the layout xml file so that the search results being displayed were not limited to 3 campsites. I showcased my skills and abilities in software development by changing the software design from a Linear Layout to a more advanced and complicated Recycler View in order to meet the goal of expanding or contracting the display to match the actual number of search results. This reduced the reptitive code and elmininated the need to know the number of results when developing the design, before conducting the search. I also added comments to help adequately document and clearly explain what each section of code accomplishes.
 
