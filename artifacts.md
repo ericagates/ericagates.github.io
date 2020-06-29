@@ -1,7 +1,6 @@
 ---
 title: Artifacts
 layout: template
-permalink: /artifacts/
 filename: artifacts.md
 ---
 

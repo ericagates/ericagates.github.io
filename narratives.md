@@ -1,7 +1,6 @@
 ---
 title: Narratives
 layout: template
-permalink: /narratives/
 filename: narratives.md
 ---
 

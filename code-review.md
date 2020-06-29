@@ -1,7 +1,6 @@
 ---
 title: Code Review
 layout: template
-permalink: /code-review/
 filename: code-review.md
 ---
 
