@@ -1,6 +1,6 @@
 ---
 title: Narratives
-layout: template
+layout: defaulr
 filename: narratives.md
 permalink: /artifacts/
 ---

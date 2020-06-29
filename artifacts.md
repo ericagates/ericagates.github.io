@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-layout: template
+layout: default
 filename: artifacts.md
 permalink: /artifacts/
 ---

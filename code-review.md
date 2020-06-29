@@ -1,6 +1,6 @@
 ---
 title: Code Review
-layout: template
+layout: default
 filename: code-review.md
 permalink: /code-review/
 ---
