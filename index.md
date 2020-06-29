@@ -1,7 +1,5 @@
 ---
 title: Home
-layout: template
-filename: index.md
 ---
 ## Erica Gates ePortfolio
 
