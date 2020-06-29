@@ -2,6 +2,7 @@
 title: Narratives
 layout: template
 filename: narratives.md
+permalink: /artifacts/
 ---
 
 ## My Narratives

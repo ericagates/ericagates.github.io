@@ -2,6 +2,7 @@
 title: Artifacts
 layout: template
 filename: artifacts.md
+permalink: /artifacts/
 ---
 
 ## My Enhanced Artifacts
