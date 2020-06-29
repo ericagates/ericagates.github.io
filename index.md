@@ -1,6 +1,4 @@
----
-title: Home
----
+
 ## Erica Gates ePortfolio
 
 ### Introduction and Professional Self-Assessment
